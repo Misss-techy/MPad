@@ -5,8 +5,11 @@ A Simple Text Editor Designed with Qt Creator to handle text files.
 Open the "Mpad.pro" file from the directory "MPad-main/MPad/" using Qt Creator. 
                              (or)
 Go to folder "MPad-main/MPad/", compile MPad.pro and make:
+
 • $ cd FrameWorkCode
+
 • $ qmake Mpad.pro
+
 • $ make
 
 ## What has been done?
