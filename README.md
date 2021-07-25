@@ -20,5 +20,7 @@ Text Formattings such as Bold, Superscript and Subscript can only be done in bac
 
 ## Features
 The significant features of the MPad are,
+
 • Mpad supports New, Open, Save, Undo, Redo, Cut, Copy and Paste operations.
+
 • It supports text formatting such as Bold, Superscript and Subscript.
