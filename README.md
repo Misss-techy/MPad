@@ -6,7 +6,7 @@ Open the "Mpad.pro" file from the directory "MPad-main/MPad/" using Qt Creator
                              (or)
 Go to folder "MPad-main/MPad/", compile MPad.pro and make:
 
-• $ cd FrameWorkCode
+• $ cd MPad-main/MPad/
 
 • $ qmake Mpad.pro
 
