@@ -2,7 +2,7 @@
 A Simple Text Editor Designed with Qt Creator to handle text files.
 
 ## How to Run the code?
-Open the "Mpad.pro" file from the directory "MPad-main/MPad/" using Qt Creator. 
+Open the "Mpad.pro" file from the directory "MPad-main/MPad/" using Qt Creator 
                              (or)
 Go to folder "MPad-main/MPad/", compile MPad.pro and make:
 
