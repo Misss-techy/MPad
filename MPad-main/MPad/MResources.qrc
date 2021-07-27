@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>bold (1).png</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>cv.png</file>
+        <file>floppy-disk.png</file>
+        <file>grey.jpg</file>
+        <file>new-document (1).png</file>
+        <file>open (1).png</file>
+        <file>open-book.png</file>
+        <file>paste.png</file>
+        <file>redo.png</file>
+        <file>save.png</file>
+        <file>solid-light-blue-background.jpg</file>
+        <file>subscript (1).png</file>
+        <file>superscript (1).png</file>
+        <file>undo.png</file>
+        <file>white.jpg</file>
+    </qresource>
+</RCC>
